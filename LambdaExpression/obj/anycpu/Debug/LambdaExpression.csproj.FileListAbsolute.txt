@@ -1,0 +1,6 @@
+/Users/davewai/Projects/CSharpBasic/LambdaExpression/bin/Debug/LambdaExpression.exe
+/Users/davewai/Projects/CSharpBasic/LambdaExpression/bin/Debug/LambdaExpression.pdb
+/Users/davewai/Projects/CSharpBasic/LambdaExpression/obj/anycpu/Debug/LambdaExpression.csproj.CoreCompileInputs.cache
+/Users/davewai/Projects/CSharpBasic/LambdaExpression/obj/anycpu/Debug/LambdaExpression.exe
+/Users/davewai/Projects/CSharpBasic/LambdaExpression/obj/anycpu/Debug/LambdaExpression.pdb
+/Users/davewai/Projects/CSharpBasic/LambdaExpression/obj/anycpu/Debug/LambdaExpression.csprojAssemblyReference.cache

@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{4004BFEC-48B3-4860-A4DC-C3675411AA1E}|Default">
+  <MonoDevelop.Ide.ItemProperties.CSharpBasic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Linq FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Linq/Program.cs">
+    <Files>
+      <File FileName="Linq/BookRepository.cs" Line="18" Column="1" />
+      <File FileName="Linq/Book.cs" Line="1" Column="1" />
+      <File FileName="Linq/Program.cs" Line="9" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpBasic" expanded="True">
+            <Node name="LambdaExpression" expanded="True" />
+            <Node name="Linq" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>_myKey</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.LambdaExpression PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

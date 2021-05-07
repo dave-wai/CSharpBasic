@@ -1,0 +1,5 @@
+/Users/davewai/Projects/CSharpBasic/Linq/bin/Debug/Linq.exe
+/Users/davewai/Projects/CSharpBasic/Linq/bin/Debug/Linq.pdb
+/Users/davewai/Projects/CSharpBasic/Linq/obj/anycpu/Debug/Linq.csproj.CoreCompileInputs.cache
+/Users/davewai/Projects/CSharpBasic/Linq/obj/anycpu/Debug/Linq.exe
+/Users/davewai/Projects/CSharpBasic/Linq/obj/anycpu/Debug/Linq.pdb

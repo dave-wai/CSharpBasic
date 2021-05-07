@@ -1,0 +1,6 @@
+/Users/davewai/Projects/CSharpBasic/CSharpBasic/bin/Debug/CSharpBasic.exe
+/Users/davewai/Projects/CSharpBasic/CSharpBasic/bin/Debug/CSharpBasic.pdb
+/Users/davewai/Projects/CSharpBasic/CSharpBasic/obj/Debug/CSharpBasic.csprojAssemblyReference.cache
+/Users/davewai/Projects/CSharpBasic/CSharpBasic/obj/Debug/CSharpBasic.csproj.CoreCompileInputs.cache
+/Users/davewai/Projects/CSharpBasic/CSharpBasic/obj/Debug/CSharpBasic.exe
+/Users/davewai/Projects/CSharpBasic/CSharpBasic/obj/Debug/CSharpBasic.pdb
